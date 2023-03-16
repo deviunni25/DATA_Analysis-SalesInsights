@@ -1,7 +1,7 @@
 # DATA_Analysis-SalesInsights
 
 ## Problem Statement
-Case Study is based on a computer hardware business which is facing cahllenges in dynamically changing market.
+Case Study is based on a computer hardware business which is facing challenges in dynamically changing market.
 Sales director decides to invest in data analysis project and he would like to build Power BI dashboard that can give him a real time sales insights.
 
 ### Undergone Steps:
